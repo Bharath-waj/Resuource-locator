@@ -1,1 +1,0 @@
-# Resuource-locator
